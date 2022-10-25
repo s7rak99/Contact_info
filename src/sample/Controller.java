@@ -96,7 +96,7 @@ public class Controller {
             data.saveContacts();
         }
     }
-
+//hi
     public void deleteContact() {
         Contact selectedContact = contactsTable
                 .getSelectionModel().getSelectedItem();
